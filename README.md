@@ -1,1 +1,1 @@
-# ethexchange
+Simple Ethereum Exchange
